@@ -1,4 +1,4 @@
-# SporSalonuYonetimSistemi
+# Spor Salonu Yonetim Sistemi
 
 ## 🚀 Kullanılan Design Pattern'lar
 - **Singleton**
